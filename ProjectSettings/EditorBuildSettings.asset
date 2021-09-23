@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 5688e7f0ef0b5574ca70d35fa0cbacb6
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: 0e381542a4e92df4c8847648299146a7
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Scroll.unity
+    guid: 69cd38a2c03687f4a92dca3579386594
+  - enabled: 1
+    path: Assets/Scenes/Level_4.unity
+    guid: 44b5d44973aa28c4797e1dc6fa70bc55
+  - enabled: 1
+    path: Assets/Scenes/Level_5_Scroll.unity
+    guid: b9a4910802275b141956298cd23e4f5d
+  - enabled: 1
+    path: Assets/Scenes/Level_6.unity
+    guid: 67924ceef2c5187428d71a88ca3f6ceb
+  - enabled: 1
+    path: Assets/Scenes/Level_8_scroll.unity
+    guid: 37cb3f116cedaeb4c9871682a92e7505
+  - enabled: 1
+    path: Assets/Scenes/Level_9_scroll.unity
+    guid: b2565f65774a6b1409e372c13aeaf830
+  - enabled: 1
+    path: Assets/Scenes/Level_11.unity
+    guid: f3f98ab483a8b0e4faef2d6fe7a376b3
+  - enabled: 1
+    path: Assets/Scenes/Level_12_scroll.unity
+    guid: ddb2f406f4d83aa4a9b73d7d2ff434b8
+  - enabled: 1
+    path: Assets/Scenes/Level_13_scroll.unity
+    guid: 0eeb2c6a89700734ba04da7c35e7e2e7
+  - enabled: 1
+    path: Assets/Scenes/Level_14_scroll.unity
+    guid: 67e6e67e8fb49ba4f8b72146acb1f901
+  - enabled: 1
+    path: Assets/Scenes/Level_15_scroll.unity
+    guid: 29cb227a057ac4940be9a3ad9bcd0a24
+  - enabled: 1
+    path: Assets/Scenes/Level_16_boss.unity
+    guid: a157c2655059d644faba3823a115e3da
+  - enabled: 1
+    path: Assets/Scenes/Level_17.unity
+    guid: 7030c149f2666794d82c9bbf4f9e9965
+  - enabled: 1
+    path: Assets/Scenes/Level_18.unity
+    guid: 68c64eeff6048864d81f7a621339b566
+  - enabled: 1
+    path: Assets/Scenes/Level_19.unity
+    guid: 5722709ce0041084c9e82f859ef4448b
+  - enabled: 1
+    path: Assets/Scenes/Level_20.unity
+    guid: 0dd7976c14f503141a0964bf22b3fdc8
+  - enabled: 1
+    path: Assets/Scenes/Fim.unity
+    guid: dd942925fd11e544db3dedc642ad36e1
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 5a0d73e5c066b1740bef334394aac946
+  - enabled: 1
+    path: Assets/Scenes/Sobre.unity
+    guid: 3cd7d8aaf757cb146ba75392d85ab4d7
+  m_configObjects: {}
